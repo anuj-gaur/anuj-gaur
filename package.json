@@ -1,6 +1,6 @@
 {
   "name": "collabera-test",
-  "description": "- 👋 Hi, I’m @anuj-gaur\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
+  "description": "test suite for collabera",
   "version": "1.0.0",
   "main": "babel.config.js",
   "scripts": {

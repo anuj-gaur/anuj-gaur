@@ -16,7 +16,8 @@ Also a '1' second buffer is provided after almost every step so that when the su
 Steps to run:
 1. After cloning into local, perform 'npm install'. 
 <!-- it will install all the dependencies from package.json-->
-2. Run command - 'npm run test' within the console.
+2. Change Values in constructor of class:- test/page_objects/signUp.page.js
+3. Run command - 'npm run test' within the console.
 
 That's it!! it'll execute the suite and test cases and represent the report afterwards.
 
